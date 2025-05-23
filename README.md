@@ -5,6 +5,6 @@
     - Directional Indicators
     - HUD & Audio Cues
   - <b>Roblox Template Places</b>
-    - [Tycoon (Worker Based) Template]()
-    - [Tycoon (Dropper Based) Template]()
-    - [Simulator Template]()
+    - [Tycoon (Worker Based) Template](https://github.com/yayosoup/rblx-base-tycoon) 
+    - [Tycoon (Dropper Based) Template](https://github.com/yayosoup/rblx-base-tycoon-worker)
+    - [Simulator Template](https://github.com/yayosoup/rblx-base-game-sim)
