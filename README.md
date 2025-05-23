@@ -1,4 +1,4 @@
-<h2>Game Development Projects</h2>
+<h1>Game Development Projects</h1>
   - <b>AccessibilityService: Roblox Service Module for easily implementing Accessibility Features to games</b>
     - [Documented and open-source](https://github.com/yayosoup/AccessibilityService)
     - High-Contrast UI Support
