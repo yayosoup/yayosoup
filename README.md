@@ -19,3 +19,12 @@
     </ul>
   </li>
 </ul>
+
+<h2>Information Technology Projects</h2>
+
+<h3>Miscellaneous Projects</h3>
+<ul>
+  <li>
+    <b>NeoVim Dot Files</b>
+  </li>
+</ul>
