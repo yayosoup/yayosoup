@@ -1,4 +1,4 @@
-<h1>Game Development Projects</h1>
+<h1>⌨️ Game Development Projects</h1>
 
 <ul>
   <li>
@@ -20,7 +20,7 @@
   </li>
 </ul>
 
-<h2>Information Technology Projects</h2>
+<h2>🖥️ Information Technology Projects</h2>
 
 <h3>Miscellaneous Projects</h3>
 <ul>
