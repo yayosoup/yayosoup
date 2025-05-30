@@ -22,7 +22,7 @@
 
 <h2>🖥️ Information Technology Projects</h2>
 
-<h3>Miscellaneous Projects</h3>
+<h2>Miscellaneous Projects</h2>
 <ul>
   <li>
     <b>NeoVim Dot Files</b>
